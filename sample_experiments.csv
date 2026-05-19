@@ -1,0 +1,4 @@
+config,sources,weighting,accuracy,mae,confidence,notes
+Sales + Reviews,Sales data and reviews,Sales 60% Reviews 40%,81,0.19,87,Strong purchase intent signal
+Survey Heavy,Survey data and interviews,Surveys 70% Interviews 30%,74,0.26,79,Good qualitative insights
+Balanced Multi-Source,Sales reviews surveys interviews,Equal weighted blend,88,0.14,91,Best overall validation performance
